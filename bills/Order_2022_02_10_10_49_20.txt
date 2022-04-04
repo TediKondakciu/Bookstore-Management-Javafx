@@ -1,0 +1,8 @@
+Order: Order_2022_02_10_10_49_20
+Date: 2022/02/10 10:49:20
+Client: tedi
+Books Ordered: 
+10pcs  test1                Unit: 90.00  Total: 900.00
+
+-----
+Total: 900.00

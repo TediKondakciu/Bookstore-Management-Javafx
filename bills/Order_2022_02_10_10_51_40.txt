@@ -1,0 +1,8 @@
+Order: Order_2022_02_10_10_51_40
+Date: 2022/02/10 10:51:40
+Client: indrit
+Books Ordered: 
+5pcs   test                 Unit: 12.00  Total: 60.00
+
+-----
+Total: 60.00

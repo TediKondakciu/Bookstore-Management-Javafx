@@ -1,0 +1,8 @@
+Order: Order_2022_02_10_11_29_00
+Date: 2022/02/10 11:29:00
+Client: asfq
+Books Ordered: 
+3pcs   test                 Unit: 109.00 Total: 327.00
+
+-----
+Total: 327.00

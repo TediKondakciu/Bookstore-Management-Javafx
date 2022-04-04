@@ -1,0 +1,8 @@
+Order: Order_2022_02_10_10_38_00
+Date: 2022/02/10 10:38:00
+Client: asdfg
+Books Ordered: 
+1pcs   1231                 Unit: 123.00 Total: 123.00
+
+-----
+Total: 123.00

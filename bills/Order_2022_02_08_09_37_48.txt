@@ -1,0 +1,8 @@
+Order: Order_2022_02_08_09_37_48
+Date: 2022/02/08 09:37:48
+Client: gasfa
+Books Ordered: 
+1pcs   1231                 Unit: 123.00 Total: 123.00
+
+-----
+Total: 123.00
